@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Styles for body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4d7d7;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Styling a class for paragraphs */
+.text-content {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* Styling an ID for a heading */
+.main-heading {
+    font-size: 24px;
+    color: #b76e79;
+    text-align: center;
+    border-bottom: 2px solid #b76e79;
+    padding-bottom: 10px;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 100%;
+    max-width: 400px;
+    border: 5px solid #b76e79;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: block;
+}
